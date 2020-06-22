@@ -1,0 +1,80 @@
+
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+    }
+
+body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, rgb(165, 6, 6) , yellow); /* Standard syntax */
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+/*h3 {
+	font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+    background-color: rgba(80, 112, 31, 0.5); 
+   border-radius: 50px;
+   width: 600px;
+   position: relative;
+   height: 30px;
+   box-shadow: 1px 2px 4px rgb(189, 191, 192);
+   padding: 3px;
+   margin: 12px;
+}*/
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  color: rgba(0,0,0,.5);
+  background-color: rgba(80, 112, 31, 0.5); 
+  border-radius: 50px;
+  box-shadow: 1px 2px 4px rgb(189, 191, 192);
+}
+
+.title{
+  font-family: 'SEGA LOGO FONT';
+ font-weight: 200;
+ display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
